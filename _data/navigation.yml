@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: About
+  link: /about
+- name: Statement of Faith
+  link: /beliefs
+- name: Our Mission
+  link: /mission
+- name: Events
+  link: /events

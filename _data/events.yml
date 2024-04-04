@@ -1,0 +1,10 @@
+- event: Prayer Meeting
+  day: Wednesday
+  time: 7:00 PM
+  place: Church
+
+- event: Church Service
+  day: Sunday
+  time: 9:30 AM
+  place: Church
+  

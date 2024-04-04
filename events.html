@@ -1,0 +1,20 @@
+---
+title: Calendar of events
+layout: default 
+---
+
+<h1>Weekly events</h1>
+<hr>
+
+{% for item in site.data.events %}
+   <li>{{ item.event }}
+       {{ item.day }}
+         {{ item.time }}
+          {{ item.place }} </li>
+{% endfor %}
+
+ <style>
+   li {
+      font-size: x-large;
+   }
+</style>
