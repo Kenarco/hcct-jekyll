@@ -7,4 +7,15 @@
   day: Sunday
   time: 9:30 AM
   place: Church
+
+- event: Bible Study
+  day: Friday
+  time: 3:00 PM
+  place: Loreng's House
+
+- event: Bible Study
+  day: Friday
+  time: 6:00 PM
+  place: Nora's House
+
   
